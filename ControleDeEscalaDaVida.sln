@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{79FC8468-0852-4D9C-B47A-E681C2FA5AFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio.Tests", "Dominio.Tests\Dominio.Tests.csproj", "{A213F441-FED0-4563-B9E5-17F6FCCD7659}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79FC8468-0852-4D9C-B47A-E681C2FA5AFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79FC8468-0852-4D9C-B47A-E681C2FA5AFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79FC8468-0852-4D9C-B47A-E681C2FA5AFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79FC8468-0852-4D9C-B47A-E681C2FA5AFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A213F441-FED0-4563-B9E5-17F6FCCD7659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A213F441-FED0-4563-B9E5-17F6FCCD7659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A213F441-FED0-4563-B9E5-17F6FCCD7659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A213F441-FED0-4563-B9E5-17F6FCCD7659}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

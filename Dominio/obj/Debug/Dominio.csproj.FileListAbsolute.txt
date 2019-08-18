@@ -1,0 +1,6 @@
+/Users/maicomoreiradasilva/Projetos/DETIC/ControleDeEscalaDaVida/Dominio/bin/Dominio.dll
+/Users/maicomoreiradasilva/Projetos/DETIC/ControleDeEscalaDaVida/Dominio/bin/Dominio.pdb
+/Users/maicomoreiradasilva/Projetos/DETIC/ControleDeEscalaDaVida/Dominio/obj/Debug/Dominio.csprojAssemblyReference.cache
+/Users/maicomoreiradasilva/Projetos/DETIC/ControleDeEscalaDaVida/Dominio/obj/Debug/Dominio.csproj.CoreCompileInputs.cache
+/Users/maicomoreiradasilva/Projetos/DETIC/ControleDeEscalaDaVida/Dominio/obj/Debug/Dominio.dll
+/Users/maicomoreiradasilva/Projetos/DETIC/ControleDeEscalaDaVida/Dominio/obj/Debug/Dominio.pdb

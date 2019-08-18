@@ -1,0 +1,13 @@
+/Users/maicomoreiradasilva/Projetos/DETIC/ControleDeEscalaDaVida/Dominio.Tests/bin/Debug/Dominio.Tests.dll
+/Users/maicomoreiradasilva/Projetos/DETIC/ControleDeEscalaDaVida/Dominio.Tests/bin/Debug/Dominio.Tests.pdb
+/Users/maicomoreiradasilva/Projetos/DETIC/ControleDeEscalaDaVida/Dominio.Tests/bin/Debug/Dominio.dll
+/Users/maicomoreiradasilva/Projetos/DETIC/ControleDeEscalaDaVida/Dominio.Tests/bin/Debug/nunit.framework.dll
+/Users/maicomoreiradasilva/Projetos/DETIC/ControleDeEscalaDaVida/Dominio.Tests/bin/Debug/Dominio.pdb
+/Users/maicomoreiradasilva/Projetos/DETIC/ControleDeEscalaDaVida/Dominio.Tests/bin/Debug/nunit.framework.xml
+/Users/maicomoreiradasilva/Projetos/DETIC/ControleDeEscalaDaVida/Dominio.Tests/obj/Debug/Dominio.Tests.csprojAssemblyReference.cache
+/Users/maicomoreiradasilva/Projetos/DETIC/ControleDeEscalaDaVida/Dominio.Tests/obj/Debug/Dominio.Tests.csproj.CoreCompileInputs.cache
+/Users/maicomoreiradasilva/Projetos/DETIC/ControleDeEscalaDaVida/Dominio.Tests/obj/Debug/Dominio.Tests.csproj.CopyComplete
+/Users/maicomoreiradasilva/Projetos/DETIC/ControleDeEscalaDaVida/Dominio.Tests/obj/Debug/Dominio.Tests.dll
+/Users/maicomoreiradasilva/Projetos/DETIC/ControleDeEscalaDaVida/Dominio.Tests/obj/Debug/Dominio.Tests.pdb
+/Users/maicomoreiradasilva/Projetos/DETIC/ControleDeEscalaDaVida/Dominio.Tests/bin/Debug/Rhino.Mocks.dll
+/Users/maicomoreiradasilva/Projetos/DETIC/ControleDeEscalaDaVida/Dominio.Tests/bin/Debug/Rhino.Mocks.xml
